@@ -1,0 +1,2 @@
+Automates the processing of bog scores using StyleWriter Software (Windows only). 
+Calculates bog scores from json files compiled from text files representing all text-data across a shadow-bank's website.
